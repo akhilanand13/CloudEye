@@ -20,12 +20,3 @@ This project integrates **AWS Rekognition** with **Amazon S3** using **Python (b
 
 ---
 
-## 📂 Setup Guide
-
-### 1. Prerequisites
-- An AWS account with **S3** and **Rekognition** enabled.
-- An **IAM user** with permissions for:
-  - `s3:PutObject`
-  - `s3:GetObject`
-  - `rekognition:DetectLabels`
-- Python 3.x installed.
